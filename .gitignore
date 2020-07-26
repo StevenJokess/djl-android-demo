@@ -1,0 +1,13 @@
+*.iml
+/local.properties
+/captures
+keystore
+.externalNativeBuild
+.cxx
+quickdraw_recognition/src/main/assets/
+quickdraw_recognition/release/
+
+# Project exclude paths
+/.gradle/
+/quickdraw_recognition/build/
+/quickdraw_recognition/build/intermediates/javac/debug/classes/
